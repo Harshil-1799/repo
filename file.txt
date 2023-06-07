@@ -1,5 +1,1 @@
-this is file
-
-line1
-
-line 2
+this is fi
